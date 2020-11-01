@@ -1,0 +1,6 @@
+Flask==1.0.2
+gpiozero==1.5.1
+pigpio==1.44
+RPi.GPIO==0.7.0
+requests==2.21.0
+requests-oauthlib==1.0.0
